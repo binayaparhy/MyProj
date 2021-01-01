@@ -1,1 +1,2 @@
 "FileB" version 1
+Added Feature 1 code
